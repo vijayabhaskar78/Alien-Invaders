@@ -1,4 +1,4 @@
-Title: Alien Invaders Game: A Python Crash Course Project
+Alien Invaders Game: A Python Crash Course Project
 
 Description:
 Welcome to the Alien Invaders game repository! This project is a Python implementation of the classic arcade game, built using concepts and techniques from the book "Python Crash Course" by Eric Matthes. 
